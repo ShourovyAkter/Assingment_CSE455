@@ -24,7 +24,7 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 
 Bangladesh’s cyber laws have evolved from basic cybercrime penalties in 2006 to more comprehensive regulations addressing digital security and free speech. The upcoming 2025 Data Protection Law aims to strengthen privacy and align with global standards.
 
-# A Comparative Study of Global Cyber Laws
+# A Comparative Study of Global Cyber Laws Top 5 Countries
 | Country    | Key Cyber Laws                                  | Focus Areas                                 | Key Features                                                                 |
 |------------|--------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------|
 | USA     | CFAA, CISA, HIPAA, CLOUD Act                    | Cybercrime, Data Sharing, Privacy           | Sector-specific laws, strong enforcement, emphasis on information sharing   |
