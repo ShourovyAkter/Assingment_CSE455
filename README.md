@@ -40,10 +40,10 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 
 Building a resilient digital future for Bangladesh requires a robust and rights-focused cyber legal framework. By learning from global best practices and tailoring reforms to local needs, Bangladesh can strengthen cybersecurity, protect digital rights, and boost investor confidence. Key steps include replacing the Digital Security Act with a balanced law, enacting a GDPR-style Data Protection Act by 2025, and investing in specialized Cyber Courts to ensure timely justice. These reforms are essential for achieving the vision of Smart Bangladesh 2041 and fostering a secure, open digital economy. To create a secure yet open digital economy, Bangladesh must:
 
-Replace the Digital Security Act (DSA) with a more balanced, rights-respecting cyber law.
+1.Replace the Digital Security Act (DSA) with a more balanced, rights-respecting cyber law.
 
-Enact a comprehensive GDPR-style Data Protection Act by 2025.
+2.Enact a comprehensive GDPR-style Data Protection Act by 2025.
 
-Invest in specialized Cyber Courts to effectively address the growing backlog of cybercrime cases and ensure swift justice.
+3.Invest in specialized Cyber Courts to effectively address the growing backlog of cybercrime cases and ensure swift justice.
 
 
