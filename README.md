@@ -18,6 +18,7 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 | Digital Security Act (DSA)   | 2018    | Covered cybercrime, defamation; criticized for limiting free speech.    |
 |	Cyber Security Act (CSA)   | 2023    | Reformed DSA; clearer definitions, softer penalties for expression.    |
 | 	Proposed Data Protection Law / Cyber Reform Law (Expected)   | 2025    | Expected to protect personal data, ensure digital privacy, and align with global cyber law standards.|
+
 Bangladesh’s cyber laws have evolved from basic cybercrime penalties in 2006 to more comprehensive regulations addressing digital security and free speech. The upcoming 2025 Data Protection Law aims to strengthen privacy and align with global standards.
 
 # A Comparative Study of Global Cyber Laws
