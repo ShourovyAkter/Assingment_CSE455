@@ -27,7 +27,8 @@ Bangladesh’s cyber laws have evolved from basic cybercrime penalties in 2006 t
 | UK      | Computer Misuse Act, Data Protection Act, NIS   | Cybercrime, Data Protection, Infrastructure | Aligned with GDPR, strong infrastructure security, detailed cybercrime laws |
 | EU      | GDPR, NIS Directive, Cybersecurity Act          | Data Privacy, Cybersecurity                 | GDPR: world-leading privacy law, ENISA coordination, breach notifications   |
 | India   | IT Act 2000 (amended), PDP Bill (draft)         | Cybercrime, Data Privacy                    | Penal provisions, personal data safeguards, under development               |
-| Singapore | Cybersecurity Act, PDPA                         | Critical Infrastructure, Data Protection    | Strong national strategy, mandatory reporting, infrastructure protection     |
+| Singapore | Cybersecurity Act, PDPA                         | Critical Infrastructure, Data Protection    | Strong national strategy, mandatory reporting, infrastructure protection  |
+
 Cyber laws in leading countries focus on cybercrime, data privacy, and infrastructure security. The USA emphasizes sector-specific enforcement and information sharing. The UK and EU prioritize data protection aligned with GDPR standards. India’s laws are evolving to enhance data privacy, while Singapore concentrates on critical infrastructure protection and mandatory reporting, showcasing diverse yet complementary cybersecurity strategies.
 # Proposed Legal Reforms for Strengthening Cyber Law in Bangladesh
 | **Proposed Law**                                  | **Inspired By**                               | **Key Features**                                                                                           |
