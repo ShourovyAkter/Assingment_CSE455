@@ -47,4 +47,38 @@ Building a resilient digital future for Bangladesh requires a robust and rights-
 2.Enact a comprehensive GDPR-style Data Protection Act by 2025.<br>
 3.Invest in specialized Cyber Courts to effectively address the growing backlog of cybercrime cases and ensure swift justice.<br>
 
+# References
+
+# Laws and Policies (Bangladesh)
+Bangladesh Parliament. (2006). Information and Communication Technology (ICT) Act, 2006. Retrieved from http://bdlaws.minlaw.gov.bd
+
+Bangladesh Parliament. (2018). Digital Security Act, 2018. Retrieved from http://bdlaws.minlaw.gov.bd
+
+Ministry of Law, Justice and Parliamentary Affairs. (2023). Cyber Security Act, 2023. Retrieved from https://moi.gov.bd
+
+Bangladesh Computer Council (BCC). (2024). Smart Bangladesh 2041 Vision Document. Retrieved from https://bcc.gov.bd
+
+Proposed Personal Data Protection Law (Draft). (Expected 2025). [Pending Publication]
+
+# International Frameworks & Examples
+- Item 1 European Union. (2016). General Data Protection Regulation (GDPR). Retrieved from https://gdpr.eu
+
+UK Government. (2018). Data Protection Act 2018. Retrieved from https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted
+
+UK Government. (1990). Computer Misuse Act 1990. Retrieved from https://www.legislation.gov.uk/ukpga/1990/18/contents
+
+United States Government. (1986). Computer Fraud and Abuse Act (CFAA). Retrieved from https://www.law.cornell.edu/uscode/text/18/1030
+
+United States Congress. (2018). Clarifying Lawful Overseas Use of Data (CLOUD) Act. Retrieved from https://www.congress.gov/bill/115th-congress/house-bill/4943
+
+Ministry of Electronics and Information Technology, India. (2000). Information Technology Act, 2000 (Amended 2008). Retrieved from https://www.meity.gov.in/
+
+Singapore Government. (2018). Cybersecurity Act 2018. Retrieved from https://www.csa.gov.sg
+
+Singapore Personal Data Protection Commission. (2012). Personal Data Protection Act (PDPA). Retrieved from https://www.pdpc.gov.sg
+
+European Commission. (2021). Proposal for a Regulation Laying Down Harmonised Rules on Artificial Intelligence (AI Act). Retrieved from https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206
+
+
+
 
