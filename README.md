@@ -71,9 +71,6 @@ Building a resilient digital future for Bangladesh requires a robust and rights-
 
 - Singapore Government. (2018). Cybersecurity Act 2018. Retrieved from https://www.csa.gov.sg
 
-- Singapore Personal Data Protection Commission. (2012). Personal Data Protection Act (PDPA). Retrieved from https://www.pdpc.gov.sg
-
-
 
 
 
