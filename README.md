@@ -18,6 +18,7 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 | Digital Security Act (DSA)   | 2018    | Covered cybercrime, defamation; criticized for limiting free speech.    |
 |	Cyber Security Act (CSA)   | 2023    | Reformed DSA; clearer definitions, softer penalties for expression.    |
 | 	Proposed Data Protection Law / Cyber Reform Law (Expected)   | 2025    | Expected to protect personal data, ensure digital privacy, and align with global cyber law standards.|
+Bangladesh’s cyber laws have evolved from basic cybercrime penalties in 2006 to more comprehensive regulations addressing digital security and free speech. The upcoming 2025 Data Protection Law aims to strengthen privacy and align with global standards.
 
 # A Comparative Study of Global Cyber Laws
 | Country    | Key Cyber Laws                                  | Focus Areas                                 | Key Features                                                                 |
@@ -27,7 +28,7 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 | EU      | GDPR, NIS Directive, Cybersecurity Act          | Data Privacy, Cybersecurity                 | GDPR: world-leading privacy law, ENISA coordination, breach notifications   |
 | India   | IT Act 2000 (amended), PDP Bill (draft)         | Cybercrime, Data Privacy                    | Penal provisions, personal data safeguards, under development               |
 | Singapore | Cybersecurity Act, PDPA                         | Critical Infrastructure, Data Protection    | Strong national strategy, mandatory reporting, infrastructure protection     |
-
+Cyber laws in leading countries focus on cybercrime, data privacy, and infrastructure security. The USA emphasizes sector-specific enforcement and information sharing. The UK and EU prioritize data protection aligned with GDPR standards. India’s laws are evolving to enhance data privacy, while Singapore concentrates on critical infrastructure protection and mandatory reporting, showcasing diverse yet complementary cybersecurity strategies.
 # Proposed Legal Reforms for Strengthening Cyber Law in Bangladesh
 | **Proposed Law**                                  | **Inspired By**                               | **Key Features**                                                                                           |
 | ------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -41,9 +42,7 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 Building a resilient digital future for Bangladesh requires a robust and rights-focused cyber legal framework. By learning from global best practices and tailoring reforms to local needs, Bangladesh can strengthen cybersecurity, protect digital rights, and boost investor confidence. Key steps include replacing the Digital Security Act with a balanced law, enacting a GDPR-style Data Protection Act by 2025, and investing in specialized Cyber Courts to ensure timely justice. These reforms are essential for achieving the vision of Smart Bangladesh 2041 and fostering a secure, open digital economy. To create a secure yet open digital economy, Bangladesh must:
 
 1.Replace the Digital Security Act (DSA) with a more balanced, rights-respecting cyber law.
-
 2.Enact a comprehensive GDPR-style Data Protection Act by 2025.
-
 3.Invest in specialized Cyber Courts to effectively address the growing backlog of cybercrime cases and ensure swift justice.
 
 
