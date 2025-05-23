@@ -1,8 +1,8 @@
 # Assignment Title 
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
-**Course Title:** Computer Ethics and Cyber Law
-**Course Code:** CSE 455
+**Course Title:** Computer Ethics and Cyber Law<br>
+**Course Code:** CSE 455<br>
 ## Submitted by
 **Name:** MT.Shourovy Akter<br>
 **ID:** 2002077<br>
