@@ -28,3 +28,12 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 | India   | IT Act 2000 (amended), PDP Bill (draft)         | Cybercrime, Data Privacy                    | Penal provisions, personal data safeguards, under development               |
 | Singapore | Cybersecurity Act, PDPA                         | Critical Infrastructure, Data Protection    | Strong national strategy, mandatory reporting, infrastructure protection     |
 
+| **Proposed Law**                                  | **Inspired By**                               | **Key Features**                                                                                           |
+| ------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **1. Data Protection & Privacy Law**              | UK (DPA), EU (GDPR), India (DPDP)             | - Consent-based data use <br> - Right to access, modify, delete data <br> - Breach reporting and penalties |
+| **2. Cybercrime Prevention & Digital Safety Law** | USA (CFAA), India (IT Act), UK (OSA)          | - Defines cybercrimes clearly <br> - Protects vulnerable groups <br> - Regulates harmful online content    |
+| **3. National Cybersecurity Authority Act**       | Singapore (CSA), USA (NIST)                   | - Central cybersecurity body <br> - Incident response <br> - Infrastructure protection                     |
+| **4. AI Regulation & Ethical Framework**          | EU (AI Act), Singapore (AI Governance)        | - Ethical AI use <br> - Risk management <br> - Transparency                                                |
+| **5. Cybercrime Investigation Unit (CCIU)**       | USA (FBI Cyber Division), India (Cyber Cells) | - Specialized cyber police <br> - Digital forensics <br> - Fast-track courts                               |
+
+
