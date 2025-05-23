@@ -31,10 +31,10 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 # Proposed Legal Reforms for Strengthening Cyber Law in Bangladesh
 | **Proposed Law**                                  | **Inspired By**                               | **Key Features**                                                                                           |
 | ------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ** Data Protection & Privacy Law**              | UK (DPA), EU (GDPR), India (DPDP)             | - Consent-based data use <br> - Right to access, modify, delete data <br> - Breach reporting and penalties |
-| ** Cybercrime Prevention & Digital Safety Law** | USA (CFAA), India (IT Act), UK (OSA)          | - Defines cybercrimes clearly <br> - Protects vulnerable groups <br> - Regulates harmful online content    |
-| ** National Cybersecurity Authority Act**       | Singapore (CSA), USA (NIST)                   | - Central cybersecurity body <br> - Incident response <br> - Infrastructure protection                     |
-| ** AI Regulation & Ethical Framework**          | EU (AI Act), Singapore (AI Governance)        | - Ethical AI use <br> - Risk management <br> - Transparency                                                |
-| ** Cybercrime Investigation Unit (CCIU)**       | USA (FBI Cyber Division), India (Cyber Cells) | - Specialized cyber police <br> - Digital forensics <br> - Fast-track courts                               |
+| **Data Protection & Privacy Law**              | UK (DPA), EU (GDPR), India (DPDP)             | - Consent-based data use <br> - Right to access, modify, delete data <br> - Breach reporting and penalties |
+| **Cybercrime Prevention & Digital Safety Law** | USA (CFAA), India (IT Act), UK (OSA)          | - Defines cybercrimes clearly <br> - Protects vulnerable groups <br> - Regulates harmful online content    |
+| **National Cybersecurity Authority Act**       | Singapore (CSA), USA (NIST)                   | - Central cybersecurity body <br> - Incident response <br> - Infrastructure protection                     |
+| **AI Regulation & Ethical Framework**          | EU (AI Act), Singapore (AI Governance)        | - Ethical AI use <br> - Risk management <br> - Transparency                                                |
+| **Cybercrime Investigation Unit (CCIU)**       | USA (FBI Cyber Division), India (Cyber Cells) | - Specialized cyber police <br> - Digital forensics <br> - Fast-track courts                               |
 
 
