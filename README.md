@@ -1,10 +1,6 @@
-
-
-
-
-#Assignment Title: 
-#Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
-##Submitted by
+# Assignment Title: 
+# Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+## Submitted by
 Name: MT.Shourovy Akter
 ID: 2002077
 Level- 4, Semester- II
