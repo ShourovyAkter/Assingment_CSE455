@@ -6,8 +6,8 @@ ID: 2002077<br>
 Level- 4, Semester- II<br>
 Department of Computer Science and Engineering, HSTU.
 ## Submitted to
-Pankaj Bhowmik
-Lecturer
+Pankaj Bhowmik<br>
+Lecturer<br>
 Department of Computer Science and Engineering, HSTU.
 # Introduction
 In an increasingly digital world, cybersecurity and the legal frameworks surrounding it are crucial for ensuring trust, safety, and resilience in cyberspace. Bangladesh, like many developing countries, is experiencing a rapid digital transformation but is also grappling with rising cyber threats, data breaches, and online crimes. The existing cyber laws, while foundational, are often outdated and lack the comprehensive coverage needed to address the dynamic nature of cyber threats. Although the Digital Security Act (DSA) 2018 and the Information and Communication Technology (ICT) Act 2006 are in place, they have been criticized for their vague provisions, potential for misuse, and insufficient capacity to address contemporary cyber threats.  This assignment aims to propose legal reforms for Bangladesh’s cyber law system by drawing insights from successful frameworks in countries like the USA, UK, EU (GDPR), and Singapore.
