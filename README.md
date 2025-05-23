@@ -38,7 +38,7 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 | **Cybercrime Investigation Unit (CCIU)**       | USA (FBI Cyber Division), India (Cyber Cells) | - Specialized cyber police <br> - Digital forensics <br> - Fast-track courts|
 # Conclusion
 
-By adopting global best practices tailored to its unique local context, Bangladesh can build a resilient and rights-respecting digital ecosystem. These proposed legal reforms will strengthen cybersecurity, boost investor confidence, and protect citizens’ digital rights—key pillars for achieving the vision of Smart Bangladesh 2041. To create a secure yet open digital economy, Bangladesh must:
+Building a resilient digital future for Bangladesh requires a robust and rights-focused cyber legal framework. By learning from global best practices and tailoring reforms to local needs, Bangladesh can strengthen cybersecurity, protect digital rights, and boost investor confidence. Key steps include replacing the Digital Security Act with a balanced law, enacting a GDPR-style Data Protection Act by 2025, and investing in specialized Cyber Courts to ensure timely justice. These reforms are essential for achieving the vision of Smart Bangladesh 2041 and fostering a secure, open digital economy. To create a secure yet open digital economy, Bangladesh must:
 
 Replace the Digital Security Act (DSA) with a more balanced, rights-respecting cyber law.
 
