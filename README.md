@@ -34,11 +34,11 @@ Cyber laws in leading countries focus on cybercrime, data privacy, and infrastru
 # Proposed Legal Reforms for Strengthening Cyber Law in Bangladesh
 | **Proposed Law**                                  | **Inspired By**                               | **Key Features**                                                                                           |
 | ------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Data Protection & Privacy Law**              | UK (DPA), EU (GDPR), India (DPDP)             |  Consent-based data use <br>  Right to access, modify, delete data <br>  Breach reporting and penalties |
-| **Cybercrime Prevention & Digital Safety Law** | USA (CFAA), India (IT Act), UK (OSA)          |  Defines cybercrimes clearly <br>  Protects vulnerable groups <br>  Regulates harmful online content    |
-| **National Cybersecurity Authority Act**       | Singapore (CSA), USA (NIST)                   |  Central cybersecurity body <br>  Incident response <br>  Infrastructure protection                     |
-| **AI Regulation & Ethical Framework**          | EU (AI Act), Singapore (AI Governance)        | Ethical AI use <br>  Risk management <br>  Transparency                                                |
-| **Cybercrime Investigation Unit (CCIU)**       | USA (FBI Cyber Division), India (Cyber Cells) |  Specialized cyber police <br>  Digital forensics <br>  Fast-track courts|
+| **Data Protection & Privacy Law**              | UK (DPA), EU (GDPR), India (DPDP)             |  Consent-based data use ,<br>  Right to access, modify, delete data ,<br>  Breach reporting and penalties |
+| **Cybercrime Prevention & Digital Safety Law** | USA (CFAA), India (IT Act), UK (OSA)          |  Defines cybercrimes clearly, <br>  Protects vulnerable groups, <br>  Regulates harmful online content    |
+| **National Cybersecurity Authority Act**       | Singapore (CSA), USA (NIST)                   |  Central cybersecurity body, <br>  Incident response ,<br>  Infrastructure protection                     |
+| **AI Regulation & Ethical Framework**          | EU (AI Act), Singapore (AI Governance)        | Ethical AI use ,<br>  Risk management, <br>  Transparency                                                |
+| **Cybercrime Investigation Unit (CCIU)**       | USA (FBI Cyber Division), India (Cyber Cells) |  Specialized cyber police, <br>  Digital forensics, <br>  Fast-track courts|
 # Conclusion
 
 Building a resilient digital future for Bangladesh requires a robust and rights-focused cyber legal framework. By learning from global best practices and tailoring reforms to local needs, Bangladesh can strengthen cybersecurity, protect digital rights, and boost investor confidence. Key steps include replacing the Digital Security Act with a balanced law, enacting a GDPR-style Data Protection Act by 2025, and investing in specialized Cyber Courts to ensure timely justice. These reforms are essential for achieving the vision of Smart Bangladesh 2041 and fostering a secure, open digital economy. To create a secure yet open digital economy, Bangladesh must:
