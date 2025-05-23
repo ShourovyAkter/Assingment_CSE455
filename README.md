@@ -22,9 +22,9 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 # A Comparative Study of Global Cyber Laws
 | Country    | Key Cyber Laws                                  | Focus Areas                                 | Key Features                                                                 |
 |------------|--------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------|
-| 🇺🇸 USA     | CFAA, CISA, HIPAA, CLOUD Act                    | Cybercrime, Data Sharing, Privacy           | Sector-specific laws, strong enforcement, emphasis on information sharing   |
-| 🇬🇧 UK      | Computer Misuse Act, Data Protection Act, NIS   | Cybercrime, Data Protection, Infrastructure | Aligned with GDPR, strong infrastructure security, detailed cybercrime laws |
-| 🇪🇺 EU      | GDPR, NIS Directive, Cybersecurity Act          | Data Privacy, Cybersecurity                 | GDPR: world-leading privacy law, ENISA coordination, breach notifications   |
-| 🇮🇳 India   | IT Act 2000 (amended), PDP Bill (draft)         | Cybercrime, Data Privacy                    | Penal provisions, personal data safeguards, under development               |
-| 🇸🇬 Singapore | Cybersecurity Act, PDPA                         | Critical Infrastructure, Data Protection    | Strong national strategy, mandatory reporting, infrastructure protection     |
+| USA     | CFAA, CISA, HIPAA, CLOUD Act                    | Cybercrime, Data Sharing, Privacy           | Sector-specific laws, strong enforcement, emphasis on information sharing   |
+| UK      | Computer Misuse Act, Data Protection Act, NIS   | Cybercrime, Data Protection, Infrastructure | Aligned with GDPR, strong infrastructure security, detailed cybercrime laws |
+| EU      | GDPR, NIS Directive, Cybersecurity Act          | Data Privacy, Cybersecurity                 | GDPR: world-leading privacy law, ENISA coordination, breach notifications   |
+| India   | IT Act 2000 (amended), PDP Bill (draft)         | Cybercrime, Data Privacy                    | Penal provisions, personal data safeguards, under development               |
+| Singapore | Cybersecurity Act, PDPA                         | Critical Infrastructure, Data Protection    | Strong national strategy, mandatory reporting, infrastructure protection     |
 
