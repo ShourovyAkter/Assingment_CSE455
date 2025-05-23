@@ -1,7 +1,7 @@
 # Assignment Title 
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 ## Submitted by
-<b Name:> MT.Shourovy Akter<br>
+Name: MT.Shourovy Akter<br>
 ID: 2002077<br>
 Level- 4, Semester- II<br>
 Department of Computer Science and Engineering, HSTU.
@@ -18,3 +18,13 @@ In an increasingly digital world, cybersecurity and the legal frameworks surroun
 | Digital Security Act (DSA)   | 2018    | Covered cybercrime, defamation; criticized for limiting free speech.    |
 |	Cyber Security Act (CSA)   | 2023    | Reformed DSA; clearer definitions, softer penalties for expression.    |
 | 	Proposed Data Protection Law / Cyber Reform Law (Expected)   | 2025    | Expected to protect personal data, ensure digital privacy, and align with global cyber law standards.|
+
+# A Comparative Study of Global Cyber Laws
+| Country    | Key Cyber Laws                                  | Focus Areas                                 | Key Features                                                                 |
+|------------|--------------------------------------------------|---------------------------------------------|------------------------------------------------------------------------------|
+| 🇺🇸 USA     | CFAA, CISA, HIPAA, CLOUD Act                    | Cybercrime, Data Sharing, Privacy           | Sector-specific laws, strong enforcement, emphasis on information sharing   |
+| 🇬🇧 UK      | Computer Misuse Act, Data Protection Act, NIS   | Cybercrime, Data Protection, Infrastructure | Aligned with GDPR, strong infrastructure security, detailed cybercrime laws |
+| 🇪🇺 EU      | GDPR, NIS Directive, Cybersecurity Act          | Data Privacy, Cybersecurity                 | GDPR: world-leading privacy law, ENISA coordination, breach notifications   |
+| 🇮🇳 India   | IT Act 2000 (amended), PDP Bill (draft)         | Cybercrime, Data Privacy                    | Penal provisions, personal data safeguards, under development               |
+| 🇸🇬 Singapore | Cybersecurity Act, PDPA                         | Critical Infrastructure, Data Protection    | Strong national strategy, mandatory reporting, infrastructure protection     |
+
